@@ -79,7 +79,7 @@
 
 ### 🎖 &nbsp;Mis Insignias
 
-[![Una imagen de las insignias de Holopin de @adityakanoi, que es un enlace para ver su perfil completo de Holopin](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+[![Una imagen de las insignias de Holopin de @BranliPrime, que es un enlace para ver su perfil completo de Holopin](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
 
 
 ### 📜 &nbsp;Mis Artículos
