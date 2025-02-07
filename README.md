@@ -10,7 +10,7 @@
 
 👨‍💻 &nbsp;Actualmente trabajo en TECNOLOGIAS MODERNAS\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
-🎓 &nbsp;Actualmente estudio Ciencias de la Computación y Tecnología de la Información en el New Horizon College of Engineering.\
+🎓 &nbsp;Actualmente estudio Desarrolo de Sistemas e Información.\
 🌱 &nbsp;Estoy aprendiendo más sobre Web3, Arquitectura basada en Microservicios y Aprendizaje Automático.\
 ✍️ &nbsp;En mi tiempo libre, me dedico al diseño de logotipos y a escribir blogs como pasatiempos/side hustles.\
 💬 &nbsp;No dudes en contactarme para consultas y voluntariado pro bono, o simplemente para tener una conversación interesante.\
@@ -24,7 +24,6 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
@@ -61,41 +60,13 @@
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;Análisis de GitHub
-
-<p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-
-### 🎖 &nbsp;Mis Insignias
-
-[![Una imagen de las insignias de Holopin de @BranliPrime, que es un enlace para ver su perfil completo de Holopin](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
-
-
-### 📜 &nbsp;Mis Artículos
-
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
-
-### 💰 &nbsp;Apoya mi trabajo
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
-
-
 ### 🤝🏻 &nbsp;Conéctate conmigo
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/BranliUni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/branlee-jose-landeo-cardenas-a9155a278/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/branli_dev/)
+
 
 ### <h2>GitHub :octocat:</h2>
 
@@ -109,6 +80,11 @@
 
 </p>        
 <!--- stats (end) -->
+
+### 🎖 &nbsp;Mis Insignias
+
+[![Una imagen de las insignias de Holopin de @BranliPrime, que es un enlace para ver su perfil completo de Holopin](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+
 
 ### 🐍 &nbsp;Así es como se mueven los commits ...
 
