@@ -1,6 +1,6 @@
 # 👋 Bienvenido, soy **Branlee José**
 
-![Banner Aditya Kanoi](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![Banner Branli Jose](https://github.com/BranliPrime/BranliPrime/blob/main/logo-github.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">**Branlee José**
 
@@ -101,7 +101,7 @@
 ### 🐍 &nbsp;Así es como se mueven los commits ...
 
 <div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
+  <a href="https://github.com/BranliPrime/">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
