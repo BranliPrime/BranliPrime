@@ -5,7 +5,7 @@
 
 👨‍💻 &nbsp;Actualmente trabajo en TECNOLOGIAS MODERNAS\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
-🎓 &nbsp;Actualmente estudio Desarrolo de Sistemas e Información.\
+🎓 &nbsp;Actualmente estudio Ingeniería de Sistemas e Información.\
 🌱 &nbsp;Estoy aprendiendo más sobre Web3, Arquitectura basada en Microservicios y Aprendizaje Automático.\
 ✍️ &nbsp;En mi tiempo libre, me dedico al diseño de logotipos y a escribir blogs como pasatiempos/side hustles.\
 💬 &nbsp;No dudes en contactarme para consultas y voluntariado pro bono, o simplemente para tener una conversación interesante.\
