@@ -11,7 +11,7 @@
 💬 &nbsp;No dudes en contactarme para consultas y voluntariado pro bono, o simplemente para tener una conversación interesante.\
 ✉️ &nbsp;Puedes enviarme un correo a branlilandeo@gmail.com! Trataré de responder lo antes posible.\
 🚀 &nbsp;¡Mira mi proyecto en acción!  
-He desplegado mi e-commerce y puedes explorarlo aquí: [avisai-ecommerce-ti78.vercel.app](https://avisai-ecommerce-ti78.vercel.app) 🌐  
+He desplegado mi e-commerce y puedes explorarlo aquí: [avisai-ecommerce-ti78.vercel.app](https://avisai-ecomerce-ti78.vercel.app/) 🌐  
 
 💡 **Proyecto en desarrollo:**  
 Aunque la funcionalidad principal está completa, sigo trabajando en mejoras, agregando nuevas características y optimizando la experiencia de usuario.  
