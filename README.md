@@ -10,7 +10,13 @@
 ✍️ &nbsp;En mi tiempo libre, me dedico al diseño de logotipos y a escribir blogs como pasatiempos/side hustles.\
 💬 &nbsp;No dudes en contactarme para consultas y voluntariado pro bono, o simplemente para tener una conversación interesante.\
 ✉️ &nbsp;Puedes enviarme un correo a branlilandeo@gmail.com! Trataré de responder lo antes posible.\
-📄 &nbsp;Por favor, échale un vistazo a mi [Currículum](https://branli.alwaysdata.net/) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+🚀 &nbsp;¡Mira mi proyecto en acción!  
+He desplegado mi e-commerce y puedes explorarlo aquí: [avisai-ecommerce-ti78.vercel.app](https://avisai-ecommerce-ti78.vercel.app) 🌐  
+
+💡 **Proyecto en desarrollo:**  
+Aunque la funcionalidad principal está completa, sigo trabajando en mejoras, agregando nuevas características y optimizando la experiencia de usuario.  
+
+📣 ¡Estoy abierto a comentarios, sugerencias y feedback para seguir mejorando!
 
 
 
